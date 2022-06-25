@@ -3,4 +3,5 @@ for i in range(5):
     
     
 print("Kupi is very Maste")
-print("Sarke Khare")
+
+print("Hello")
