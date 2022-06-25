@@ -1,9 +1,6 @@
 for i in range(5):
     print("Give me ")
      
-print("Kupi is very Maste")
-print("So true")
-
-print("Hai go")
+print("Knight is the best person to play Brawl Stars with")
 a = 10
 b = 22
