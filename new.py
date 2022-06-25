@@ -4,3 +4,4 @@ for i in range(5):
 print("Kupi is very Maste")
 
 print("Hello")
+a = 10
