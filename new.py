@@ -5,3 +5,4 @@ print("Kupi is very Maste")
 
 print("Hello")
 a = 10
+b = 22
