@@ -5,3 +5,4 @@ for i in range(5):
 print("Kupi is very Maste")
 
 print("Hello")
+b = 22
