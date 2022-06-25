@@ -2,6 +2,6 @@
 
 int main(void)
     {
-        printf("I love you Kalpita");
-        printf("Love You too Pratik❤️");
+        printf("I love you Kalpita\n");
+        printf("I Love You too Pratik❤️");
     }
